@@ -8,8 +8,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=TaxMachine&show_icons=true&title_color=00C800&text_color=00C800&border_color=9600AC&bg_color=DEG,4D0094,7C0094,9F00C7">
 </p>
 <p align="center">
-    <code><img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=randomVBscriptfile&title_color=00C800&text_color=00C800&border_color=9600AC&bg_color=DEG,4D0094,7C0094,9F00C7">
-
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=randomVBscriptfile&title_color=00C800&text_color=00C800&border_color=9600AC&bg_color=DEG,4D0094,7C0094,9F00C7">
+</p>
 
 i am has usefull has 
 ```vbs
