@@ -11,7 +11,7 @@
 </div>
 
 ## 𝐕𝐢𝐞𝐰 𝐂𝐨𝐮𝐧𝐭𝐞𝐫
-<img src="https://profile-counter.glitch.me/GayarraFrost/count.svg" height="32" />
+<img src="https://profile-counter.glitch.me/TaxMachine/count.svg" height="32" />
 
 # 𝐂𝐨𝐨𝐥 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲
 <div align="center">
