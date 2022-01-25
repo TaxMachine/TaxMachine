@@ -20,7 +20,6 @@
 
 # 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧𝐬
 >𝐄𝐭𝐡𝐞𝐫𝐞𝐮𝐦: <code>0xF583244C94298605f1e6104ABEC573a3b14b9a17</code> (𝐌𝐞𝐭𝐚𝐌𝐚𝐬𝐤)<br>
->𝐄𝐭𝐡𝐞𝐫𝐞𝐮𝐦: <code>0x362CF2f0AfD08F626a8d5d733a5e00774bcED0cE</code> (𝐁𝐫𝐚𝐯𝐞) <br>
 
 # 𝐒𝐨𝐜𝐢𝐚𝐥 𝐌𝐞𝐝𝐢𝐚
 >𝐘𝐨𝐮𝐭𝐮𝐛𝐞: <code>https://www.youtube.com/channel/UCXranBOFFyMLIkhBJv4iaqA</code><br>
