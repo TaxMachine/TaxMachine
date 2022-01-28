@@ -15,7 +15,7 @@
 
 # 𝐂𝐨𝐨𝐥 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TaxMachine&repo=PNG2TEX&title_color=00C800&text_color=00C800&border_color=9600AC&bg_color=DEG,4D0094,7C0094,9F00C7" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TaxMachine&repo=PowershellTokenGrabberV2&title_color=00C800&text_color=00C800&border_color=9600AC&bg_color=DEG,4D0094,7C0094,9F00C7" />
 </div>
 
 # 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧𝐬
