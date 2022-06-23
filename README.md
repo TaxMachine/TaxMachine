@@ -1,5 +1,5 @@
 # 𝐓𝐚𝐱𝐌𝐚𝐜𝐡𝐢𝐧𝐞
-𝐀 𝐫𝐞𝐚𝐥𝐥𝐲 𝐝𝐮𝐦𝐛 𝐍𝐨𝐝𝐞𝐉𝐒 𝐚𝐧𝐝 𝐏𝐨𝐰𝐞𝐫𝐬𝐡𝐞𝐥𝐥 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫, 𝐚𝐥𝐬𝐨 𝐛𝐞𝐠𝐠𝐢𝐧𝐞𝐫 𝐢𝐧 𝐇𝐓𝐌𝐋/𝐂𝐒𝐒/𝐉𝐒
+NodeJS, Powershell, Python and html/css/javascript dev
 <div align="center">
     <img src="https://discord.c99.nl/widget/theme-2/667170416007053313.png">
 </div>
