@@ -1,13 +1,13 @@
 # 𝐓𝐚𝐱𝐌𝐚𝐜𝐡𝐢𝐧𝐞
 NodeJS, Powershell, Python and html/css/javascript dev
 <div align="center">
-    <img src="https://lanyard.cnrad.dev/api/795785229699645491">
+    <img src="https://lanyard.cnrad.dev/api/795785229699645491"><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=TaxMachine&show_icons=true&theme=tokyonight" right height="150" />
 </div>
 
 # 𝐂𝐨𝐨𝐥 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaxMachine&theme=prussian&custom_title=Stupid%20Languages%20i%20use" height="250" left /><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=TaxMachine&show_icons=true&theme=tokyonight" right height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaxMachine&theme=prussian&custom_title=Stupid%20Languages%20i%20use" height="250" left />
 </div>
 
 # 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧𝐬
