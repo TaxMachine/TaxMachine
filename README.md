@@ -1,7 +1,7 @@
 # 𝐓𝐚𝐱𝐌𝐚𝐜𝐡𝐢𝐧𝐞
 NodeJS, Powershell, Python and html/css/javascript dev
 <div align="center">
-    <img src="https://discord.c99.nl/widget/theme-2/667170416007053313.png">
+    <img src="https://lanyard.cnrad.dev/api/795785229699645491">
 </div>
 
 # 𝐂𝐨𝐨𝐥 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬
