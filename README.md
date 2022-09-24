@@ -1,9 +1,28 @@
 # 𝐓𝐚𝐱𝐌𝐚𝐜𝐡𝐢𝐧𝐞
-NodeJS, Powershell, Python and html/css/javascript dev
+French Canadian developper 🇨🇦
 <div align="center">
     <img src="https://lanyard.cnrad.dev/api/795785229699645491"><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=TaxMachine&show_icons=true&theme=tokyonight" right height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=TaxMachine&show_icons=true&theme=tokyonight" right height="150" /><br>
+    <a href="https://nodejs.org">
+        <img src="https://raw.githubusercontent.com/TaxMachine/TaxMachine/main/nodejs-logo.webp" right height="60" width="50">
+    </a>
+    <a href="https://nim-lang.org">
+        <img src="https://raw.githubusercontent.com/TaxMachine/TaxMachine/main/nim-logo.webp" right height="60" width="70">
+    </a>
+    <a href="https://python.org">
+        <img src="https://raw.githubusercontent.com/TaxMachine/TaxMachine/main/python-logo.webp" height="70" width="70">
+    </a>
+    <a href="https://learn.microsoft.com/en-us/powershell/">
+        <img src="https://raw.githubusercontent.com/TaxMachine/TaxMachine/main/powershell-logo.webp" height="70" width="70">
+    </a>
+    <a href="https://www.sqlite.org/">
+        <img src="https://raw.githubusercontent.com/TaxMachine/TaxMachine/main/sqlite-logo.webp" height="70" width="70">
+    </a>
+    <a href="https://discord.js.org/#/">
+        <img src="https://raw.githubusercontent.com/TaxMachine/TaxMachine/main/discord.js-logo.webp" height="70" width="70">
+    </a>
 </div>
+
 
 # 𝐂𝐨𝐨𝐥 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬
 <div align="center">
