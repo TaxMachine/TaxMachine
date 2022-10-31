@@ -27,6 +27,7 @@ French Canadian developper 🇨🇦
 # 𝐂𝐨𝐨𝐥 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaxMachine&theme=prussian&custom_title=Stupid%20Languages%20i%20use" height="250" left />
+    <img src="https://profile-counter.glitch.me/TaxMachine/count.svg">
 </div>
 
 # 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧𝐬
