@@ -1,7 +1,7 @@
 # 𝐓𝐚𝐱𝐌𝐚𝐜𝐡𝐢𝐧𝐞
 French Canadian developper 🇨🇦
 <div align="center">
-    <img src="https://lanyard.cnrad.dev/api/795785229699645491"><br>
+    [![Discord Presence](https://lanyard.cnrad.dev/api/1156610121007386707)](https://discord.com/users/1156610121007386707)<br>
     <img src="https://github-readme-stats.vercel.app/api?username=TaxMachine&show_icons=true&theme=tokyonight" right height="150" /><br>
     <a href="https://nodejs.org">
         <img src="https://raw.githubusercontent.com/TaxMachine/TaxMachine/main/nodejs-logo.webp" right height="60" width="50">
