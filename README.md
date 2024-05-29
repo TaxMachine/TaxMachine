@@ -32,10 +32,9 @@ French Canadian developper 🇨🇦
 </div>
 
 # 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧𝐬
->𝐄𝐭𝐡𝐞𝐫𝐞𝐮𝐦: <code>0xF583244C94298605f1e6104ABEC573a3b14b9a17</code> (𝐌𝐞𝐭𝐚𝐌𝐚𝐬𝐤)<br>
+>PayPal: ```https://paypal.me/maxtachine```<br>
 
 # 𝐒𝐨𝐜𝐢𝐚𝐥 𝐌𝐞𝐝𝐢𝐚
 >𝐘𝐨𝐮𝐭𝐮𝐛𝐞: ```https://www.youtube.com/channel/UCXranBOFFyMLIkhBJv4iaqA```<br>
->𝐓𝐰𝐢𝐭𝐜𝐡: ```https://twitch.tv/taxmachines```<br>
->𝐃𝐢𝐬𝐜𝐨𝐫𝐝: ```https://discord.gg/2b2flat```<br>
+>𝐃𝐢𝐬𝐜𝐨𝐫𝐝: ```https://discord.gg/feur```<br>
 >𝐆𝐢𝐭𝐡𝐮𝐛: ```https://github.com/TaxMachine```<br>
